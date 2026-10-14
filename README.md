@@ -1,0 +1,1 @@
+This project is apart of Odin Foundations course and the and will be creating a very basic recipe website.
